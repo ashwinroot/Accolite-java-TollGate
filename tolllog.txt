@@ -1,0 +1,42 @@
+
+Log at TollGate EN1
+TN661797 Charged at EN1 for 5.0(Extra amount is) 0.
+
+
+
+Log at TollGate EN2
+TN23BJ1989 Charged at EN2 for 10.0(Extra amount is) 0.
+TN20BJ5678 Charged at EN2 for 10.0(Extra amount is) 0.
+
+
+
+Log at TollGate EN3
+TN07K8980 Charged at EN3 for 15.0(Extra amount is) 0.
+
+
+
+Log at TollGate EN4
+TN22AU2213 Charged at EN4 for 20.0(Extra amount is) 0.
+
+
+
+Log at TollGate EX1
+TN07K8980 Charged at EX1 for 70.0(Extra amount is) 20.
+
+
+
+Log at TollGate EX2
+TN23BJ1989 Charged at EX2 for 140.0(Extra amount is) 40.
+TN20BJ5678 Charged at EX2 for 140.0(Extra amount is) 40.
+
+
+
+Log at TollGate EX3
+TN22AU2213 Charged at EX3 for 180.0(Extra amount is) 30.
+
+
+
+Log at TollGate EX4
+TN661797 Charged at EX4 for 230.0(Extra amount is) 30.
+
+

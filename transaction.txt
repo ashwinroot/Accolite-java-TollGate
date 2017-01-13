@@ -1,0 +1,11 @@
+
+ Commuter name: Ashwin, Balance deducted: 5.0, remaining balance: 5995.0
+ Commuter name: Ashwin, Balance deducted: 230.0, remaining balance: 5765.0
+ Commuter name: Poorva, Balance deducted: 10.0, remaining balance: 3990.0
+ Commuter name: Poorva, Balance deducted: 140.0, remaining balance: 3850.0
+ Commuter name: Dhivya, Balance deducted: 20.0, remaining balance: 1180.0
+ Commuter name: Dhivya, Balance deducted: 180.0, remaining balance: 1000.0
+ Commuter name: Gen, Balance deducted: 15.0, remaining balance: 1435.0
+ Commuter name: Gen, Balance deducted: 70.0, remaining balance: 1365.0
+ Commuter name: Krithi, Balance deducted: 10.0, remaining balance: 3590.0
+ Commuter name: Krithi, Balance deducted: 140.0, remaining balance: 3450.0
